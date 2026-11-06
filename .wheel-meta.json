@@ -1,0 +1,22 @@
+{
+  "wheel_id": 772,
+  "structure": "umbrella",
+  "slug": "homeloanbrokersunshinecoast-155",
+  "project": "mortgage-broker-sunshine-coast-0af7265fe66c9ed341662aaa501dbeff",
+  "parent_t1_ref": "homeloanbrokersunshinecoast-015",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokersunshinecoast.com.au",
+  "primary_kw": "mortgage broker sunshine coast",
+  "intended_url": "http://mortgage-broker-sunshine-coast-0af7265fe66c9ed341662aaa501dbeff.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "12ac5b014121607e",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/mortgage-broker-sunshine-coast/",
+      "anchor": "https://cloudsites-hub.pages.dev/sites-01/mortgage-broker-sunshine-coast/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
